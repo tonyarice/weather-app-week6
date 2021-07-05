@@ -62,3 +62,7 @@ footer {
   font-size: small;
   text-align: right;
 }
+
+#netlify {
+  color: deeppink;
+}
