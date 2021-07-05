@@ -61,12 +61,13 @@ button:hover {
 footer {
   font-size: small;
   text-align: right;
+  padding-right: 16px;
 }
 
 #netlify {
-  color: deeppink;
+  color: mediumorchid;
 }
 
 #github {
-  color: deeppink;
+  color: mediumorchid;
 }
