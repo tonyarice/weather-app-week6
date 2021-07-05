@@ -1,0 +1,60 @@
+body {
+  background-image: url("images/blue-sky.jpg");
+}
+
+.card-body {
+  background-image: url("images/blue-sky.jpg");
+  opacity: 0.7;
+}
+
+/* #search-form {
+  flex: 50%;
+} */
+
+.display-1 {
+  color: blue;
+}
+
+button {
+  border-radius: 15px;
+}
+button:hover {
+  color: navy;
+  transition: ease-in-out 200ms;
+  cursor: pointer;
+}
+
+.dividing-line {
+  border: 1px solid blue;
+}
+
+.display-4 {
+  color: blue;
+}
+
+.col-4 {
+  color: blue;
+}
+
+.high {
+  font-weight: bold;
+}
+
+.p-3 {
+  color: blue;
+}
+
+/* .c-degree {
+  font-size: 50%;
+  vertical-align: super;
+} */
+
+.f-degree {
+  font-size: 50%;
+  vertical-align: super;
+}
+
+.degree-high-low {
+  font-size: 70%;
+  vertical-align: text-top;
+}
