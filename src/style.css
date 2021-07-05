@@ -58,3 +58,7 @@ button:hover {
   font-size: 70%;
   vertical-align: text-top;
 }
+footer {
+  font-size: small;
+  text-align: right;
+}
